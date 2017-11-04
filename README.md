@@ -4,6 +4,10 @@ With the help of the analysis that I did for the last lab session and reasearch 
 
 Companies face a dip but usually after that these companies put a lot of time and effort so that they don't suffer much financially. They face a lot of criticism and loss of trust. However, as companies work on their public image and reputation, the effect is dilutes in the long term. Hence using the word punishment will be extreme since **punishments usually have drastic and long term effects**. 
 
+Tableau Public Link - https://public.tableau.com/profile/ritu.pardasani#!/vizhome/FinancialMarketsdonotpunishsecuritybreaches/analysis?publish=yes
+
+## Detailed Explanation for my argument
+
 ### Visualization of Last lab session (lab 3) -
 
 <img width="810" alt="screen shot 2017-11-04 at 11 15 08 am" src="https://user-images.githubusercontent.com/32205588/32408215-8c2956b6-c151-11e7-934f-9a2fb2301634.png">
